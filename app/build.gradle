@@ -35,4 +35,5 @@ dependencies {
     implementation 'com.github.bumptech.glide:glide:4.7.1'
     //KLog
     //compile 'com.github.zhaokaiqiang.klog:library:1.5.0'
+    implementation 'org.greenrobot:eventbus:3.1.1'
 }
