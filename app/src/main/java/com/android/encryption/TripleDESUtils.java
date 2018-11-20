@@ -8,13 +8,6 @@ import java.security.NoSuchAlgorithmException;
 
 /**
  * @Description:主要功能:3DES对称加密（Triple DES、DESede，进行了三重DES加密的算法，对称加密算法）
- * @Prject: CommonUtilLibrary
- * @Package: com.jingewenku.abrahamcaijin.commonutil.encryption
- * @author: AbrahamCaiJin
- * @date: 2017年05月16日 15:58
- * @Copyright: 个人版权所有
- * @Company:
- * @version: 1.0.0
  */
 
 public class TripleDESUtils {

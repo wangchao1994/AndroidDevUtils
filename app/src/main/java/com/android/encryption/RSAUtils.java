@@ -1,7 +1,5 @@
 package com.android.encryption;
 
-import com.jingewenku.abrahamcaijin.commonutil.ConvertUtils;
-
 import javax.crypto.Cipher;
 import java.math.BigInteger;
 import java.security.*;
@@ -15,13 +13,6 @@ import java.util.Date;
 
 /**
  * @Description:主要功能:RSA加密解密工具类,android平台上RSA加密算法用的默认Provider是“org.bouncycastle.jce.provider.BouncyCastleProvider”
- * @Prject: CommonUtilLibrary
- * @Package: com.jingewenku.abrahamcaijin.commonutil.encryption
- * @author: AbrahamCaiJin
- * @date: 2017年07月20日 16:26
- * @Copyright: 个人版权所有
- * @Company:
- * @version: 1.0.0
  */
 
 public class RSAUtils {

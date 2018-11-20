@@ -1,6 +1,5 @@
 package com.android.encryption;
 
-import com.jingewenku.abrahamcaijin.commonutil.ConvertUtils;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -12,13 +11,6 @@ import java.security.NoSuchAlgorithmException;
 
 /**
  * @Description:主要功能:MD5加密 不可逆（Message Digest，消息摘要算法）
- * @Prject: CommonUtilLibrary
- * @Package: com.jingewenku.abrahamcaijin.commonutil.encryption
- * @author: AbrahamCaiJin
- * @date: 2017年05月16日 15:56
- * @Copyright: 个人版权所有
- * @Company:
- * @version: 1.0.0
  */
 
 public class MD5Utils {
